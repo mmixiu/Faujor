@@ -7,6 +7,6 @@ public class LoginOutController {
 	public void setLoginOut(TdCustomer customer){
 		
 		customer.setPhoneNo("110");
-		
+		String sql = "";
 	}
 }
