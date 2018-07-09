@@ -10,8 +10,6 @@ public class LoginOutController {
 		
 		
 		
-		String str11 = "devo分支devo分支";
-		
-		String str = "当前分支是devo";
+		String str = "杨霏霏之本地分支devo";
 	}
 }
