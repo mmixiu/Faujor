@@ -8,5 +8,7 @@ public class LoginOutController {
 		
 		customer.setPhoneNo("110");
 		String sql = "";
+		
+		String str = "hello World";
 	}
 }
