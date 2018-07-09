@@ -9,9 +9,6 @@ public class LoginOutController {
 		customer.setPhoneNo("110");
 		
 		
-		
-		String str = "杨霏霏之本地分支devo";
-		
 		String devv = "devo分支功能开发完";
 	}
 }
