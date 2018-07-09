@@ -10,5 +10,8 @@ public class LoginOutController {
 		String sql = "";
 		
 		String str = "hello World";
+		
+		
+		String hello = "hello  Java";
 	}
 }
