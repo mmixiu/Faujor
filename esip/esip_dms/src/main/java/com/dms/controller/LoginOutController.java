@@ -13,5 +13,7 @@ public class LoginOutController {
 		
 		
 		String hello = "hello  Java";
+		
+		String str1 = "测试人员1改变了";
 	}
 }
