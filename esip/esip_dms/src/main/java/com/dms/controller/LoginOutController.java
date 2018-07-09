@@ -15,5 +15,7 @@ public class LoginOutController {
 		String hello = "hello  Java";
 		
 		String str1 = "测试人员1改变了";
+		
+		String str12 = "开发了ajax后台";
 	}
 }
