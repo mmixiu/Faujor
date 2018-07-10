@@ -22,6 +22,8 @@ public class LoginOutController {
 		
 		String str13 = "3333";
 		
+		String sql11="";
+		
 	}
 }
  
