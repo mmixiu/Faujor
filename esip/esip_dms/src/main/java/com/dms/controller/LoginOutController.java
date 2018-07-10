@@ -15,5 +15,7 @@ public class LoginOutController {
 		
 		String str = "开发功能";
 		
+		String str2 = "功能完备";
+		
 	}
 }
