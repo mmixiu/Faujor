@@ -20,6 +20,8 @@ public class LoginOutController {
 		
 		String str2 = "功能完备";
 		
+		String str13 = "3333";
+		
 	}
 }
  
