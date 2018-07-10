@@ -12,6 +12,8 @@ public class LoginOutController {
 		
 		String devv = "devo分支功能开发完";
 		
+		String sql="test";
+		
 		String devv1 = "devo分支功能开发完11";
 		
 		String str = "开发功能";
@@ -20,3 +22,4 @@ public class LoginOutController {
 		
 	}
 }
+ 
