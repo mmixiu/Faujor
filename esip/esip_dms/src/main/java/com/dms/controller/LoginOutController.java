@@ -8,6 +8,7 @@ public class LoginOutController {
 		
 		customer.setPhoneNo("110");
 		
+		String str3 = "3333";
 		
 		String devv = "devo分支功能开发完";
 		
