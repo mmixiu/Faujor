@@ -10,5 +10,8 @@ public class LoginOutController {
 		
 		
 		String devv = "devo分支功能开发完";
+		
+		String sql="test";
 	}
 }
+ 
